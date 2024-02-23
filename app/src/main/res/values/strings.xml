@@ -1,0 +1,103 @@
+<resources>
+    <string name="app_name">sucafe</string>
+
+    <string name="cafe_name">Nama Cafe</string>
+    <string name="description">Deskripsi</string>
+    <string name="list">List</string>
+    <string name="about">About</string>
+    <string name="address">Address</string>
+    <string name="price">Price</string>
+    <string name="hour">Hour</string>
+    <string name="location">Location</string>
+
+    <string-array name="data_name">
+        <item>Kinfolk Kafija</item>
+        <item>Grandfather</item>
+        <item>The Library</item>
+        <item>Distrik Metropolitan</item>
+        <item>Omahe Mbah Giyo</item>
+        <item>Kopi Ganes</item>
+        <item>Moogs</item>
+        <item>Docafe</item>
+        <item>Omah Rakjat</item>
+        <item>Kaiten</item>
+    </string-array>
+
+    <string-array name="data_description">
+        <item>Ngafe di rooftop terbuka</item>
+        <item>Penuh ornamen vintage</item>
+        <item>Ngafe di perpustakaan</item>
+        <item>Suasana pecinan</item>
+        <item>Bertamu ke rumah lawas</item>
+        <item>Penuh ornamen budaya</item>
+        <item>Klasik dengan galeri musik</item>
+        <item>Ada kebun binatangnya</item>
+        <item>Suasana rumah jawa</item>
+        <item>Japanese vibes cafe</item>
+    </string-array>
+
+    <string-array name="data_address">
+        <item>Rukan grand ketintang Rukan grand ketintang, Ketintang, Gayungan, Surabaya, East Java 60231</item>
+        <item>Jl. Kalasan No.25 I, Pacar Keling, Kec. Tambaksari, Surabaya, Jawa Timur 60131</item>
+        <item>Tower D1, Jl. Pakuwon Indah No.KAV. 3-5, Babatan, Kec. Wiyung, Surabaya, Jawa Timur 60126</item>
+        <item>Jl. Bratang Binangun I No.38, Baratajaya, Kec. Gubeng, Surabaya, Jawa Timur 60284</item>
+        <item>Jl. Gubeng Kertajaya I Raya No.15, Gubeng, Kec. Gubeng, Surabaya, Jawa Timur 60281</item>
+        <item>Jl. Keputih Tegal Tim. II No.116, Keputih, Kec. Sukolilo, Surabaya, Jawa Timur 60111</item>
+        <item>Rungkut harapan utara B 15, Surabaya, East Java</item>
+        <item>Lidah Wetan, Kec. Lakarsantri, Surabaya, Jawa Timur 60213</item>
+        <item>Jl. Gayung Kebonsari VIII No.38, Ketintang, Kec. Gayungan, Surabaya, Jawa Timur 60235</item>
+        <item>Jl. Ratna No.14, Ngagel, Kec. Wonokromo, Surabaya, Jawa Timur 60246</item>
+    </string-array>
+
+    <string-array name="data_price">
+        <item>25.000-50.000</item>
+        <item>25.000-75.000</item>
+        <item>50.000-100.000</item>
+        <item>25.000-50.000</item>
+        <item>25.000-50.000</item>
+        <item>10.000-25.000</item>
+        <item>50.000-100.000</item>
+        <item>50.000-75.000</item>
+        <item>10.000-25.000</item>
+        <item>25.000-50.000</item>
+    </string-array>
+
+    <string-array name="data_hour">
+        <item>10.00-23.00</item>
+        <item>17.00–00.00</item>
+        <item>07.00–21.00</item>
+        <item>09.00–01.00</item>
+        <item>15.15–22.00</item>
+        <item>17.00–22.00</item>
+        <item>10.00–00.00</item>
+        <item>17.00–22.00</item>
+        <item>10.00–23.00</item>
+        <item>15.00–23.00</item>
+    </string-array>
+
+    <string-array name="data_location">
+        <item>https://maps.app.goo.gl/ses1bAtbFdkCDam26</item>
+        <item>https://maps.app.goo.gl/Yy8nEswr245S96Bp9</item>
+        <item>https://maps.app.goo.gl/EyAcbQJqzFHmwxAd9</item>
+        <item>https://maps.app.goo.gl/vwvYiibsPpwwiEqh9</item>
+        <item>https://maps.app.goo.gl/LYKNFYQz1rAsDvxW6</item>
+        <item>https://maps.app.goo.gl/RUd438ETfhFsnQuM7</item>
+        <item>https://maps.app.goo.gl/4hNwcgEPAgfUPTvV9</item>
+        <item>https://maps.app.goo.gl/mpBqKHgLSHNGQK8J6</item>
+        <item>https://maps.app.goo.gl/HdPEABC5h6eCPBkEA</item>
+        <item>https://maps.app.goo.gl/Z277cEZBixmpL2ZFA</item>
+    </string-array>
+
+    <integer-array name="data_photo">
+        <item>@drawable/kinfolk</item>
+        <item>@drawable/grandfather</item>
+        <item>@drawable/thelibrary</item>
+        <item>@drawable/metropolitan</item>
+        <item>@drawable/mbahgiyo</item>
+        <item>@drawable/kopiganes</item>
+        <item>@drawable/moogs</item>
+        <item>@drawable/docafe</item>
+        <item>@drawable/omahrakjat</item>
+        <item>@drawable/kaiten</item>
+    </integer-array>
+</resources>
